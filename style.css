@@ -197,4 +197,24 @@ audio::-webkit-media-controls-panel {
 audio {
   border-radius: 8px;
 }
+
+.poem {
+  max-width: 760px;
+  margin: auto;
+}
+
+.poem-author {
+  color: #7b746d;
+  margin-bottom: 30px;
+  font-style: italic;
+}
+
+.poem-text {
+  font-size: 1.08rem;
+  line-height: 2;
+}
+
+.poem-text p {
+  margin-bottom: 40px;
+}
 }
